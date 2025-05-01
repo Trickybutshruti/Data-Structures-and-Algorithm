@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
 ## Two Pointers
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
 ## Heap (Priority Queue)
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -53,4 +56,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
+## Binary Search
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->

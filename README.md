@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3321-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0009-palindrome-number) |
 | [1013-fibonacci-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1013-fibonacci-number) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
+| [3321-type-of-triangle](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3321-type-of-triangle) |
 ## Stack
 |  |
 | ------- |

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Breadth-First Search
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1013-fibonacci-number) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3321-type-of-triangle) |

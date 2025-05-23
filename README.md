@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0792-binary-search) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |

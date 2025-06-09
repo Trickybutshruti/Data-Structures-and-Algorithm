@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1078-remove-outermost-parentheses) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
@@ -178,4 +179,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->

@@ -139,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1078-remove-outermost-parentheses) |
 | [3617-find-the-original-typed-string-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3617-find-the-original-typed-string-i) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3618-find-the-original-typed-string-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1013-fibonacci-number) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -207,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0145-binary-tree-postorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->

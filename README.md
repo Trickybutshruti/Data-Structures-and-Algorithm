@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1013-fibonacci-number) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1013-fibonacci-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Trie
 |  |
 | ------- |
@@ -213,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3618-find-the-original-typed-string-ii) |
+## Simulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->

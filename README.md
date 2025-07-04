@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
 | [3321-type-of-triangle](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Stack
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
 |  |
 | ------- |

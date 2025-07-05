@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -223,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->

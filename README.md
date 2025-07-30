@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0907-koko-eating-bananas) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [1078-remove-outermost-parentheses](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1078-remove-outermost-parentheses) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
 ## Greedy
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |
 ## Number Theory
 |  |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Bit Manipulation

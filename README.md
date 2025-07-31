@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0455-assign-cookies](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |

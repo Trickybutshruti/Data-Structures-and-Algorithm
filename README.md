@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3001-apply-operations-to-maximize-score) |

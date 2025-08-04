@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0890-lemonade-change) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/1013-fibonacci-number) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3618-find-the-original-typed-string-ii) |
 ## Recursion

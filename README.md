@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0435-non-overlapping-intervals](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0485-max-consecutive-ones) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0908-middle-of-the-linked-list) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0907-koko-eating-bananas) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/0287-find-the-duplicate-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Trickybutshruti/Data-Structures-and-Algorithm/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Trie
